@@ -53,5 +53,5 @@
   "ember-addon": {
     "configPath": "tests/dummy/config"
   },
-  "packageVersion": "yarn@1.22.22"
+  "packageManager": "yarn@1.22.22"
 }
